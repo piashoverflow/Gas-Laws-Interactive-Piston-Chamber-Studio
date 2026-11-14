@@ -1,0 +1,6 @@
+{
+  "name": "Gas Laws & Interactive Piston Chamber Studio",
+  "description": "Interactive physics laboratory simulating Boyle's Law, Charles's Law with Absolute Zero extrapolation, Gay-Lussac's Pressure Law, and the Ideal Gas Equation (PV = nRT) with live elastic molecular kinetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
